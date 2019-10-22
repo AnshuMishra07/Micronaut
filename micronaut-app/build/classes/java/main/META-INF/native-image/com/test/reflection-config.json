@@ -1,0 +1,6 @@
+[ {
+  "name" : "com.test.Customer",
+  "allDeclaredFields" : true,
+  "allPublicMethods" : true,
+  "allDeclaredConstructors" : true
+} ]
